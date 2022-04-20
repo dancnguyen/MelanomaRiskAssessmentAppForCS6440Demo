@@ -1,4 +1,4 @@
-#Melanoma Risk Assessment Application Demo
+# Melanoma Risk Assessment Application Demo #
 
 This is the demo build for the Melanoma Risk Assessment Application created as the Course Practicum for CS6440 for the usability and survey review period.
 
