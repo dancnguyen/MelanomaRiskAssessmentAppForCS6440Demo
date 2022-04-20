@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MelanomaRiskAssessmentAppForCS6440Demo/static/css/main.6095a8cb.css",
+    "main.js": "/MelanomaRiskAssessmentAppForCS6440Demo/static/js/main.7a75ff27.js",
+    "index.html": "/MelanomaRiskAssessmentAppForCS6440Demo/index.html",
+    "main.6095a8cb.css.map": "/MelanomaRiskAssessmentAppForCS6440Demo/static/css/main.6095a8cb.css.map",
+    "main.7a75ff27.js.map": "/MelanomaRiskAssessmentAppForCS6440Demo/static/js/main.7a75ff27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6095a8cb.css",
+    "static/js/main.7a75ff27.js"
+  ]
+}
