@@ -1,0 +1,1 @@
+tensorflowjs_converter --input_format keras --output_format=tfjs_graph_model C:\Temp\ModelH5\MelanomaModelOptimized.h5 C:\Temp\TensorflowJSFiles\MelanomaModelOptimized
