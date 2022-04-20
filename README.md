@@ -20,7 +20,7 @@ Images were pulled down using the ISIC Web Services and Python through a Jupyter
 
 Building training, validating, and testing of the neural network model was performed with Python in a Jupyter Notebook with Tensorflow and Keras. The Jupyter Notebook used for training the model may be found in SourcePython\ModelOptimized.ipynb. The model was saved in an H5 File Format for model reloading and analysis.
 
-The H5 File Format model is found under SourcePython\H5Files\ModelOptimized.h5
+The H5 File Format model is found at https://drive.google.com/drive/folders/1_YMVokjMFuIVOIZtKxFBOK54hstYtQs7?usp=sharing. This is because it is greater than 100 mb and has difficulty in hosting in GitHub.
 
 Metric analysis of the model was performed with Python in the Jupyter Notebook under SourcePython\TestReloadModel.ipynb
 
